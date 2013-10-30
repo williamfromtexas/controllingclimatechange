@@ -46,9 +46,9 @@ Cufon.set('fontSize', '35px').replace('#site-title');
 <link rel='stylesheet' id='tfg_style-css'  href='wp-content/plugins/twitter-facebook-google-plusone-share/tfg_style.css?ver=3.6.1' type='text/css' media='all' />
 <link rel='stylesheet' id='social-widget-css'  href='wp-content/plugins/social-media-widget/social_widget.css?ver=3.6.1' type='text/css' media='all' />
 <link rel='stylesheet' id='social_comments-css'  href='wp-content/plugins/social/assets/comments.css?ver=2.9.2' type='text/css' media='screen' />
-<script type='text/javascript' src='wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.min.js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <link rel='prev' title='Free book and chapter downloads now available' href='index.html?p=319' />
@@ -259,15 +259,15 @@ China has sizable feed-in tariffs for renewable electricity <a href="http://bloo
 <!-- This website uses Linkable Title Html And Php Widget v1.2.4 Wordpress plugin developed by PepLamb (PepLamb.com) -->
 <script src="wp-content/plugins/thickbox/thickbox/jquery.js" type="text/javascript"></script>
 <script src="wp-content/plugins/thickbox/thickbox.php?thickbox_action=tjs&amp;url=http:%252F%252Fwww.controllingclimatechange.net%252Fwp-content%252Fplugins%252Fthickbox%252Fthickbox%252Fimages%252F&amp;variant=default" type="text/javascript"></script>
-<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=3.6.1'></script>
-<script type='text/javascript' src='http://apis.google.com/js/plusone.js?ver=3.6.1'></script>
-<script type='text/javascript' src='http://platform.linkedin.com/in.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script>
+<script type='text/javascript' src='http://apis.google.com/js/plusone.js'></script>
+<script type='text/javascript' src='http://platform.linkedin.com/in.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var Sociali18n = {"commentReplyTitle":"Post a Reply"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/social/assets/social.js?ver=2.9.2'></script>
+<script type='text/javascript' src='wp-content/plugins/social/assets/social.js'></script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

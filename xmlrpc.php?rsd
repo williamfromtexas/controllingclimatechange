@@ -2,13 +2,12 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://www.controllingclimatechange.net/</homePageLink>
+    <homePageLink>http://www.controllingclimatechange.net</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.controllingclimatechange.net//xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.controllingclimatechange.net//xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.controllingclimatechange.net//xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.controllingclimatechange.net//xmlrpc.php" />
-      <api name="Atom" blogID="" preferred="false" apiLink="http://www.controllingclimatechange.net//wp-app.php/service" />
-    </apis>
+      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.controllingclimatechange.net/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.controllingclimatechange.net/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.controllingclimatechange.net/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.controllingclimatechange.net/xmlrpc.php" />
+          </apis>
   </service>
 </rsd>
